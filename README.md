@@ -1,2 +1,2 @@
-# react-router-course-ru
-Код для раздела [Настраиваем DEV-окружение](https://maxfarseer.gitbooks.io/react-router-course-ru/content/nastraivaem_dev-okruzhenie.html)
+This example done step by step from this URL
+#https://maxfarseer.gitbooks.io/react-router-course-ru/content/
